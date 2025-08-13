@@ -1,1 +1,1 @@
-# Dark-Web-A-Hacker-s-Perspective
+Researched, authored, and delivered a comprehensive presentation on the evolution of the dark web, analyzing how technologies such as Tor, Freenet, and I2P have contributed to its growth as a hub for cybercriminal activity. Provided guidance on safe and ethical access methods, and examined two high-profile dark web phenomena, Red Rooms and the Silk Road marketplace, highlighting their impact on cybersecurity and digital law enforcement.
